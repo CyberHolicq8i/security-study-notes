@@ -8,6 +8,7 @@ Learning-in-public notes from CompTIA and cybersecurity fundamentals study — T
 - `network-plus/` — N10-009 domain notes
 - `a-plus/` — 220-1201 / 220-1202 domain notes
 - `tryhackme/` — room writeups and technical vocabulary notes
+- `ai-security/` — AI security concepts and defensive-architecture notes (outside the CompTIA syllabus)
 
 ## Why this exists
 
